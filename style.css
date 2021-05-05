@@ -44,6 +44,16 @@
     width: 500px;
 }
 
+/* inizio es. 7 */
+.ex-7-img{
+    transition: 2s;
+}
+
+/* inizio es. 8 */
+.ex-8-img{
+    transition: 3s;
+}
+
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
